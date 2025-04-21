@@ -1,0 +1,59 @@
+# --- General ---
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+*.pidb
+*.svclog
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# JetBrains IDEs
+.idea/
+*.sln
+*.sln.iml
+
+# --- Frontend (Angular) ---
+
+/frontendPAS/node_modules/
+/frontendPAS/dist/
+/frontendPAS/.angular/cache
+
+# Archivos de bloqueo
+/frontendPAS/package-lock.json
+/frontendPAS/yarn.lock
+
+# --- Backend (ASP.NET Core) ---
+
+/backendPAS/backend/bin/
+/backendPAS/backend/obj/
+/backendPAS/.vs/
+
+
+# Configuración sensible
+/backendPAS/appsettings.Development.json
+/backendPAS/appsettings.Local.json
+/backendPAS/secrets.json
+
+# Bases de datos locales
+/backendPAS/*.db
+/backendPAS/*.mdf
+/backendPAS/*.ldf
+
+# --- Otros ---
+
+# Resultados de tests
+TestResults/
