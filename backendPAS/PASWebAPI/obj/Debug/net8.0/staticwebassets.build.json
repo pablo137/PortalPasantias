@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JVvGjOqGElV4mqvWbDy1KXQHra0uzx+5jhueWTolT54=",
+  "Source": "PASWebAPI",
+  "BasePath": "_content/PASWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\bin\Debug\net8.0\PAS.Model.deps.json
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\bin\Debug\net8.0\PAS.Model.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\bin\Debug\net8.0\PAS.Model.pdb
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.AssemblyInfo.cs
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.sourcelink.json
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\refint\PAS.Model.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\PAS.Model.pdb
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Model\obj\Debug\net8.0\ref\PAS.Model.dll

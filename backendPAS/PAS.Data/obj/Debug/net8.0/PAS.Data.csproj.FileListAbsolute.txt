@@ -1,0 +1,16 @@
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.AssemblyInfo.cs
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.sourcelink.json
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\bin\Debug\net8.0\PAS.Data.deps.json
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\bin\Debug\net8.0\PAS.Data.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\bin\Debug\net8.0\PAS.Data.pdb
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\bin\Debug\net8.0\PAS.Model.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\bin\Debug\net8.0\PAS.Model.pdb
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.csproj.Up2Date
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\refint\PAS.Data.dll
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\PAS.Data.pdb
+C:\Users\Usuario\Documents\TALLER I-2025\backendPAS\PAS.Data\obj\Debug\net8.0\ref\PAS.Data.dll
